@@ -1,14 +1,39 @@
 {
   "albums": [
     {
-      "name": "Anti",
-      "year": 2016,
-      "url": "https://link-to-album-image.com"
+      "name": "Music of the Sun",
+      "year": 2005,
+      "url": "https://example.com/path/to/music_of_the_sun.jpg"
+    },
+    {
+      "name": "A Girl Like Me",
+      "year": 2006,
+      "url": "https://example.com/path/to/a_girl_like_me.jpg"
+    },
+    {
+      "name": "Good Girl Gone Bad",
+      "year": 2007,
+      "url": "https://example.com/path/to/good_girl_gone_bad.jpg"
     },
     {
       "name": "Loud",
       "year": 2010,
-      "url": "https://link-to-album-image.com"
+      "url": "https://example.com/path/to/loud.jpg"
+    },
+    {
+      "name": "Talk That Talk",
+      "year": 2011,
+      "url": "https://example.com/path/to/talk_that_talk.jpg"
+    },
+    {
+      "name": "Unapologetic",
+      "year": 2012,
+      "url": "https://example.com/path/to/unapologetic.jpg"
+    },
+    {
+      "name": "Anti",
+      "year": 2016,
+      "url": "https://example.com/path/to/anti.jpg"
     }
   ]
 }
