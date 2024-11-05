@@ -1,5 +1,6 @@
 {
-  "albums": [
+  "albums": 
+  [
     {
       "name": "Anti",
       "year": 2016,
@@ -41,5 +42,5 @@
       "url": "https://i.scdn.co/image/f568f63dd6183aadc9dc42824ba080dde0361367"
     },
     {
-  
+  ]
 }
